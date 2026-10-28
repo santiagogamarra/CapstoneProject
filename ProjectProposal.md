@@ -10,7 +10,7 @@ Machine vision using AI object recognition selects a patter for the hand to gras
 
 ## Methods 
 1. Software:
-    + Mathlab (tentative)
+    + Mathlab robotic hand toolbox(tentative)
     + python (tentative)
     + GitHub
     + VLM-YOLOE [^6] (tentative)
