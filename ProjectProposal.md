@@ -33,6 +33,9 @@ An eye-hand coordinated system that allows a robotic hand to firmly grasp differ
 ## Further research
 A skin for the robotic hand to sense the force applied, provide friction to enhance grip for different object surface properties. [^4]  
 Robotic wrist or arm to increment the degrees of freedom of the robotic hand, thus making it more versatile. 
+## Further investigation
+https://www.researchgate.net/publication/389590395_Geometry-Aware_3D_Hand-Object_Pose_Estimation_Under_Occlusion_via_Hierarchical_Feature_Decoupling  
+https://www.researchgate.net/publication/394014243_Deep_Learning_for_Computer_Vision_Application  
 ## References
 [^1]: X. Wang, J. Wang, K. Li (2026). EP-DDPG: A deep reinforcement learning framework for visual-tactile fusion in grasping control of humanoid robotic hand. Biomedical Signal Processing and Control.  https://doi.org/10.1016/j.bspc.2026.109897
 [^2]: Li, Sheng, Nie, Wang, Zhang, Lu (2027). Lightweight vision-guided pose generation for dexterous-hand grasping in cluttered scenes. Expert Systems with Applications. https://doi.org/10.1016/j.eswa.2026.134811
@@ -41,6 +44,3 @@ Robotic wrist or arm to increment the degrees of freedom of the robotic hand, th
 [^5]: Claret, J.-A., & Suárez, R. (2011). Efficient and practical determination of grasping configurations for anthropomorphic hands. IFAC Proceedings Volumes, 44(1), 14660–14666. https://doi.org/10.3182/20110828-6-it-1002.00711
 [^6]: Ao, W., Liu, L., Chen, H., Lin, Z., Han, J., & Ding, G. (2025). YOLOE: Real-time seeing anything (2503.07465v1). arXiv. https://arxiv.org/abs/2503.07465v1
 
-## Further investigation
-https://www.researchgate.net/publication/389590395_Geometry-Aware_3D_Hand-Object_Pose_Estimation_Under_Occlusion_via_Hierarchical_Feature_Decoupling  
-https://www.researchgate.net/publication/394014243_Deep_Learning_for_Computer_Vision_Application  
